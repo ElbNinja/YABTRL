@@ -1,7 +1,10 @@
 # YABTRL
-Yet Another BattleTech Reading List
-[PDF Version](https://github.com/ElbNinja/YABTRL/blob/main/Yet%20Another%20BattleTech%20Reading%20List.pdf?raw=true)
+Yet Another BattleTech Reading List - Reading books with giant death machines and war crimes is fun!
 
+## Latest Version (March 2025)
+[PDF File](Yet%20Another%20BattleTech%20Reading%20List.pdf?raw=true) 
+
+## Why?
 I am missing the last 20 years of the BattleTech timeline. 
 Which is why I started the project to (re-)read the most important or interesting BattleTech books and created this reading list to have any chance to navigate the uncountable amount of BattleTech stories out there.
 
