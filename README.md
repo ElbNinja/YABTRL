@@ -1,8 +1,14 @@
-# YABTRL
-Yet Another BattleTech Reading List - Reading books with giant death machines and war crimes is fun!
+## YABTRL | Yet Another BattleTech Reading List
+Reading books with giant death machines and war crimes is fun!
 
-## Latest Version (March 2025)
-[PDF File](Yet%20Another%20BattleTech%20Reading%20List.pdf?raw=true) 
+## What?
+The YABTRL is a curated list to help new (and old) BattleTech Fans to navigate the uncountable number of books for the BattleTech universe.
+It does this by sorting the books based on the BattleTech timeline, but does not follow the timeline blindly. 
+To provide a better reading experience, the books are also arranged to hold story arcs together and to keep things interesting.
+Additionally, I add commentary to the books as I read them. To provide some insights and my unsolicited opinion about it. My annotations are not spoiler free in regard to the overall BattleTech timeline, but do not spoil the story of the book.
+
+Currently I only maintaine the list as a [PDF File](Yet%20Another%20BattleTech%20Reading%20List.pdf?raw=true).
+
 
 ## Why?
 I am missing the last 20 years of the BattleTech timeline. 
